@@ -115,8 +115,3 @@ Use this *only* if you want to produce animations and classified grids from scre
 ## 🔍 Classification Comparison
 
 ![Original vs Modified Classification Image](Media/Classification%20Image%20-%20Original%20vs%20Modified.svg)
-
----
-
-Let me know if you want this in `markdown` format to copy directly, or if you'd like me to create a downloadable file.
-
